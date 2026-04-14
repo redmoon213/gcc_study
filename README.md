@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인의깃허브ID&show_icons=true&theme=radical" alt="Deokho's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redmoon213&show_icons=true&theme=radical" alt="Deokho's GitHub Stats" />
 </p>
 
 ---
